@@ -1,0 +1,9 @@
+{
+  "commitish" : "5.3.0",
+  "iOS" : [
+    {
+      "name" : "SwiftyPickerPopover",
+      "hash" : "078c083121b84c12c41c487ae3c081e2a121d7fe43ef9dae6185244437b1f4fd"
+    }
+  ]
+}

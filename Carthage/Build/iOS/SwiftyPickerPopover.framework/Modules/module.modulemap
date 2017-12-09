@@ -1,0 +1,10 @@
+framework module SwiftyPickerPopover {
+  umbrella header "SwiftyPickerPopover.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftyPickerPopover.Swift {
+    header "SwiftyPickerPopover-Swift.h"
+}
